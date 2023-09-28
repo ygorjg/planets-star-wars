@@ -8,12 +8,12 @@ const GlobalStyles = createGlobalStyle`
     padding: 0;
 }
 
-/* body {
+body {
     background-image: url(${backgroundImage});
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-} */
+}
 `;
 
 export default GlobalStyles;
