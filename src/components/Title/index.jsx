@@ -1,5 +1,5 @@
-import logo from "../../assets/logos/white-logo.png";
 import { Container } from "./style";
+import logo from "../../assets/logos/white-logo.png";
 
 const Title = () => {
   return (
