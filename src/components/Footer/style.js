@@ -10,6 +10,7 @@ export const Container = styled.footer`
   height: 70px;
   background-color: #ffffff;
   gap: 50px;
+  position: fixed;
 
   span {
     font-family: "Lato", sans-serif;

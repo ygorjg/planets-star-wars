@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { BtnContainer, Button, Container } from "./style";
+import { BtnContainer, Container } from "./style";
 import { FaThermometerHalf } from "react-icons/fa";
 import { CgTerrain } from "react-icons/cg";
 import { IoIosPeople } from "react-icons/io";
