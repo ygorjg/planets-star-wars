@@ -4,13 +4,12 @@ export const Container = styled.footer`
   display: flex;
   align-items: center;
   justify-content: center;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
-  height: 70px;
+  height: 50px;
   background-color: #ffffff;
   gap: 50px;
-  position: fixed;
 
   span {
     font-family: "Lato", sans-serif;
